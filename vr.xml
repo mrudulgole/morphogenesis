@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="17333" appversion="6.0.5">
+  <panorama id="node1">
+    <input overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" height="1024" leveltilesize="510">
+      <level predecode="0" width="1024" preload="0" height="1024"/>
+      <level predecode="0" width="512" preload="0" height="512"/>
+      <level predecode="1" width="256" preload="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="105.61" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata tags="Vikas Ji (meta)" copyright="" customnodeid="" source="" longitude="" title="" latitude="" description="" info="" comment="" author="" datetime=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textalpha="1" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" width="180" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" height="20" textcolor="0x000000"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-245.47" id="Point01" tilt="0.46" target="" title="" description="" skinid="ht_node" url="{node2}"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" pan="-276.130" rotz="4.000" id="Element01" stretch="1.000" fov="10.153" tilt="5.110" clickmode="4" width="242" roty="-38.000" rotx="4.000" height="46">
+        <source url="media/logo.png"/>
+      </image>
+    </media>
+    <transition zoomspeed="2" zoomin="2" zoomout="0" zoomoutpause="1" blendtime="1" zoomfov="20" enabled="1" softedge="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" hideabout="0" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" height="1024" leveltilesize="510">
+      <level predecode="0" width="1024" preload="0" height="1024"/>
+      <level predecode="0" width="512" preload="0" height="512"/>
+      <level predecode="1" width="256" preload="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="57.96" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata tags="Vikas Ji (meta)" copyright="" customnodeid="" source="" longitude="" title="" latitude="" description="" info="" comment="" author="" datetime=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textalpha="1" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" width="180" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" height="20" textcolor="0x000000"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-85.51" id="Point01" tilt="-2.98" target="" title="" description="" skinid="ht_node" url="{node1}"/>
+      <hotspot pan="-353.89" id="Point02" tilt="-2.82" target="" title="" description="" skinid="ht_node" url="{node3}"/>
+      <hotspot pan="-267.2" id="Point03" tilt="-1.39" target="" title="" description="" skinid="ht_node" url="{node9}"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" pan="-334.490" rotz="18.000" id="Element01" stretch="1.000" fov="17.523" tilt="6.650" clickmode="4" width="242" roty="-72.000" rotx="17.000" height="46">
+        <source url="media/logo.png"/>
+      </image>
+    </media>
+    <transition zoomspeed="2" zoomin="2" zoomout="0" zoomoutpause="1" blendtime="1" zoomfov="20" enabled="1" softedge="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" hideabout="0" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" height="1024" leveltilesize="510">
+      <level predecode="0" width="1024" preload="0" height="1024"/>
+      <level predecode="0" width="512" preload="0" height="512"/>
+      <level predecode="1" width="256" preload="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata tags="Vikas Ji (meta)" copyright="" customnodeid="" source="" longitude="" title="" latitude="" description="" info="" comment="" author="" datetime=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textalpha="1" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" width="180" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" height="20" textcolor="0x000000"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-185.68" id="Point01" tilt="-3.7" target="" title="" description="" skinid="ht_node" url="{node2}"/>
+      <hotspot pan="-358.98" id="Point02" tilt="-0.5" target="" title="" description="" skinid="ht_node" url="{node4}"/>
+      <hotspot pan="-263.01" id="Point03" tilt="-1.37" target="" title="" description="" skinid="ht_node" url="{node5}"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" pan="-304.140" rotz="7.000" id="Element01" stretch="1.000" fov="17.523" tilt="10.980" clickmode="4" width="242" roty="-21.000" rotx="14.000" height="46">
+        <source url="media/logo.png"/>
+      </image>
+    </media>
+    <transition zoomspeed="2" zoomin="2" zoomout="0" zoomoutpause="1" blendtime="1" zoomfov="20" enabled="1" softedge="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" hideabout="0" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" height="1024" leveltilesize="510">
+      <level predecode="0" width="1024" preload="0" height="1024"/>
+      <level predecode="0" width="512" preload="0" height="512"/>
+      <level predecode="1" width="256" preload="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="99.76" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata tags="Vikas Ji (meta)" copyright="" customnodeid="" source="" longitude="" title="" latitude="" description="" info="" comment="" author="" datetime=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textalpha="1" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" width="180" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" height="20" textcolor="0x000000"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-196.94" id="Point01" tilt="-6.19" target="" title="" description="" skinid="ht_node" url="{node3}"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" pan="-260.760" rotz="-3.000" id="Element01" stretch="1.000" fov="18.090" tilt="10.360" clickmode="4" width="242" roty="-4.000" rotx="14.000" height="46">
+        <source url="media/logo.png"/>
+      </image>
+    </media>
+    <transition zoomspeed="2" zoomin="2" zoomout="0" zoomoutpause="1" blendtime="1" zoomfov="20" enabled="1" softedge="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" hideabout="0" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" height="1024" leveltilesize="510">
+      <level predecode="0" width="1024" preload="0" height="1024"/>
+      <level predecode="0" width="512" preload="0" height="512"/>
+      <level predecode="1" width="256" preload="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="92.47" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata tags="Vikas Ji (meta)" copyright="" customnodeid="" source="" longitude="" title="" latitude="" description="" info="" comment="" author="" datetime=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textalpha="1" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" width="180" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" height="20" textcolor="0x000000"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-83.62" id="Point01" tilt="-5.63" target="" title="" description="" skinid="ht_node" url="{node3}"/>
+      <hotspot pan="-242.72" id="Point02" tilt="-4.52" target="" title="" description="" skinid="ht_node" url="{node6}"/>
+    </hotspots>
+    <media>
+      <image handcursor="0" pan="-342.400" rotz="39.000" id="Element01" stretch="1.000" fov="25.166" tilt="15.830" clickmode="4" width="242" roty="-59.000" rotx="40.000" height="46">
+        <source url="media/logo.png"/>
+      </image>
+    </media>
+    <transition zoomspeed="2" zoomin="2" zoomout="0" zoomoutpause="1" blendtime="1" zoomfov="20" enabled="1" softedge="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" hideabout="0" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" height="1024" leveltilesize="510">
+      <level predecode="0" width="1024" preload="0" height="1024"/>
+      <level predecode="0" width="512" preload="0" height="512"/>
+      <level predecode="1" width="256" preload="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="94.76" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata tags="Vikas Ji (meta)" copyright="" customnodeid="" source="" longitude="" title="" latitude="" description="" info="" comment="" author="" datetime=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textalpha="1" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" width="180" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" height="20" textcolor="0x000000"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-51.72" id="Point01" tilt="-3.08" target="" title="" description="" skinid="ht_node" url="{node5}"/>
+      <hotspot pan="-265.06" id="Point02" tilt="-4.72" target="" title="" description="" skinid="ht_node" url="{node7}"/>
+      <hotspot pan="-359.62" id="Point03" tilt="-0.25" target="" title="" description="" skinid="ht_node" url="{node8}"/>
+    </hotspots>
+    <media>
+      <video handcursor="1" mode="3" startmutedmobile="1" tilt="-7.740" loop="2" level="1.000" roty="-10.000" rotz="0.000" width="640" fov="44.150" stretch="1.000" clickmode="0" ambientlevel="0.000" nodechangekeep="0" field="90.000" tiltsize="25.000" rotx="0.000" pan="-187.580" height="360" id="Element01" pansize="25.000">
+        <source url="media/Interior Mockup.mp4"/>
+      </video>
+    </media>
+    <transition zoomspeed="2" zoomin="2" zoomout="0" zoomoutpause="1" blendtime="1" zoomfov="20" enabled="1" softedge="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" hideabout="0" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" height="1024" leveltilesize="510">
+      <level predecode="0" width="1024" preload="0" height="1024"/>
+      <level predecode="0" width="512" preload="0" height="512"/>
+      <level predecode="1" width="256" preload="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="98.81" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata tags="Vikas Ji (meta)" copyright="" customnodeid="" source="" longitude="" title="" latitude="" description="" info="" comment="" author="" datetime=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textalpha="1" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" width="180" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" height="20" textcolor="0x000000"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-354.64" id="Point01" tilt="-2.45" target="" title="" description="" skinid="ht_node" url="{node6}"/>
+    </hotspots>
+    <media>
+      <video handcursor="1" mode="3" startmutedmobile="1" tilt="-2.590" loop="2" level="1.000" roty="73.000" rotz="14.000" width="640" fov="17.470" stretch="1.000" clickmode="0" ambientlevel="0.000" nodechangekeep="0" field="90.000" tiltsize="25.000" rotx="-15.000" pan="-20.930" height="360" id="Element01" pansize="25.000">
+        <source url="media/Interior Mockup.mp4"/>
+      </video>
+    </media>
+    <transition zoomspeed="2" zoomin="2" zoomout="0" zoomoutpause="1" blendtime="1" zoomfov="20" enabled="1" softedge="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" hideabout="0" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" height="1024" leveltilesize="510">
+      <level predecode="0" width="1024" preload="0" height="1024"/>
+      <level predecode="0" width="512" preload="0" height="512"/>
+      <level predecode="1" width="256" preload="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="91.23" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata tags="Vikas Ji (meta)" copyright="" customnodeid="" source="" longitude="" title="" latitude="" description="" info="" comment="" author="" datetime=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textalpha="1" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" width="180" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" height="20" textcolor="0x000000"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-178.33" id="Point01" tilt="-1.09" target="" title="" description="" skinid="ht_node" url="{node6}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="2" zoomout="0" zoomoutpause="1" blendtime="1" zoomfov="20" enabled="1" softedge="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" hideabout="0" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" height="1024" leveltilesize="510">
+      <level predecode="0" width="1024" preload="0" height="1024"/>
+      <level predecode="0" width="512" preload="0" height="512"/>
+      <level predecode="1" width="256" preload="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="94.43" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata tags="Vikas Ji (meta)" copyright="" customnodeid="" source="" longitude="" title="" latitude="" description="" info="" comment="" author="" datetime=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textalpha="1" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" width="180" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" height="20" textcolor="0x000000"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-90.21" id="Point01" tilt="-2.44" target="" title="" description="" skinid="ht_node" url="{node2}"/>
+      <hotspot pan="-263.42" id="Point02" tilt="-1.9" target="" title="" description="" skinid="ht_node" url="{node10}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="2" zoomout="0" zoomoutpause="1" blendtime="1" zoomfov="20" enabled="1" softedge="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" hideabout="0" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" width="1024" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" height="1024" leveltilesize="510">
+      <level predecode="0" width="1024" preload="0" height="1024"/>
+      <level predecode="0" width="512" preload="0" height="512"/>
+      <level predecode="1" width="256" preload="1" height="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="97.34" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fov="120" fovstereographic="270" tilt="90" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata tags="Vikas Ji (meta)" copyright="" customnodeid="" source="" longitude="" title="" latitude="" description="" info="" comment="" author="" datetime=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label border="1" textalpha="1" backgroundalpha="1" borderalpha="1" background="1" borderradius="1" width="180" wordwrap="1" bordercolor="0x000000" backgroundcolor="0xffffff" enabled="1" height="20" textcolor="0x000000"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot pan="-88.11" id="Point01" tilt="-2.43" target="" title="" description="" skinid="ht_node" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition zoomspeed="2" zoomin="2" zoomout="0" zoomoutpause="1" blendtime="1" zoomfov="20" enabled="1" softedge="0" type="crossdissolve" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextfullscreen="1" speedwheel="1" lockedkeyboard="0" hideabout="0" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" copyright="" customnodeid="" source="" longitude="" title="" latitude="" description="" info="" comment="" author="" datetime=""/>
+  </masternode>
+</tour>
